@@ -24,16 +24,3 @@ def num_translate():
 
 if __name__ == "__main__":
     num_translate()
-'''
-def num_translate(number: str):
-    # YOUR CODE HERE
-    ...
-    return  # YOUR CODE HERE
-
-
-if __name__ == "__main__":
-    print(num_translate('one'))
-    print(num_translate('six'))
-    
-
-'''
